@@ -17,7 +17,7 @@
 <h3 align="center">working set</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,cloudflare,css,electron,express,figma,firebase,git,html,ai,js,jquery,mongodb,mysql,nestjs,nextjs,netlify,nestjs,nextjs,nodejs,ps,react,redis,redux,regex,sass,supabase,sentry,svelte,tailwind,threejs,ts,vite,vue,vuetify,wordpress&perline=14" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,supabase,tailwind,redux,vite,git,figma,aws,cloudflare,sentry,firebase,electron&perline=10 />
 </p>
 
 <br />

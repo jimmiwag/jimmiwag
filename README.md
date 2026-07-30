@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Domi Rosario — software should feel deliberate" width="100%" />
+  <img src="./assets/hero.svg" alt="Muhammad Jamshaid (Jimmi) — shipping products, not just code" width="100%" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h3 align="center">working set</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bootstrap,cloudflare,css,electron,express,figma,firebase,git,html,ai,js,jquery,mongodb,mysql,nestjs,nextjs,netlify,nestjs,nextjs,nodejs,ps,react,redis,redux,regex,sass,supabase,sentry,svelte,tailwind,threejs,ts,vite,vue,vuetify,wordpress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,bootstrap,cloudflare,css,electron,express,figma,firebase,git,html,ai,js,jquery,mongodb,mysql,nestjs,nextjs,netlify,nestjs,nextjs,nodejs,ps,react,redis,redux,regex,sass,supabase,sentry,svelte,tailwind,threejs,ts,vite,vue,vuetify,wordpress&perline=14" />
 </p>
 
 <br />

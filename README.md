@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://jimmi-mjcodes.vercel.app"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — jimmi-mjcodes.vercel.app" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mjamshaid-itdev/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Muhammad Jamshaid" /></a>&nbsp;
-  <a href="https://x.com/mj_jimmi"><img src="./assets/link-x.svg" width="31.5%" alt="X — @mj_jimmi" /></a>
+  <a href="https://jimmi-mjcodes.vercel.app"><img src="./assets/link-portfolio.svg" width="33.5%" alt="Portfolio — jimmi-mjcodes.vercel.app" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mjamshaid-itdev/"><img src="./assets/link-linkedin.svg" width="30.5%" alt="LinkedIn — Muhammad Jamshaid" /></a>&nbsp;
+  <a href="https://x.com/mj_jimmi"><img src="./assets/link-x.svg" width="30.5%" alt="X — @mj_jimmi" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h3 align="center">working set</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,supabase,tailwind,redux,vite,git,figma,aws,cloudflare,sentry,firebase,electron&perline=10 />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,supabase,tailwind,redux,vite,git,figma,aws,cloudflare,sentry,firebase,electron&perline=10" />
 </p>
 
 <br />

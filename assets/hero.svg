@@ -4,7 +4,7 @@
 
   <style>
     .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
-    .headline { font: italic 600 36px Georgia, 'Times New Roman', serif; fill: #1f2328; }
+    .headline { font: italic 600 28px Georgia, 'Times New Roman', serif; fill: #1f2328; }
     .copy { font: 400 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
     .rule { stroke: #d0d7de; }
 
@@ -22,7 +22,7 @@
   <line x1="2" y1="45" x2="878" y2="45" class="rule" />
 
   <text x="2" y="113" class="headline">
-    building products that solve real problems.
+    Building products that solve real problems.
   </text>
 
   <text x="4" y="158" class="copy">

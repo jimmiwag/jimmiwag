@@ -4,7 +4,7 @@
 
   <style>
     .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
-    .headline { font: italic 600 28px Georgia, 'Times New Roman', serif; fill: #1f2328; }
+    .headline { font: italic 600 36px Georgia, 'Times New Roman', serif; fill: #1f2328; }
     .copy { font: 400 15px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #57606a; }
     .rule { stroke: #d0d7de; }
 

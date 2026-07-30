@@ -14,7 +14,7 @@
 
 <br />
 
-<h3 align="center">working set</h3>
+<h3 align="center" style="letter-spacing: 2.4px;">WORKING SET</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,supabase,tailwind,redux,vite,git,figma,aws,cloudflare,sentry,firebase,electron&perline=10" />

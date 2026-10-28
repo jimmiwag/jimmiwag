@@ -1,25 +1,18 @@
-<p align="center">
-  <img src="./assets/hero.svg" alt="Muhammad Jamshaid (Jimmi) — shipping products, not just code" width="100%" />
-</p>
+### Hi, I'm Muhammad Jamshaid (Jimmi) 👋
+**AI Solutions & Product Implementation Engineer | Next.js • TypeScript • Node.js • Applied AI (RAG, Agents, MCP)**
 
-<p align="center">
-  <a href="https://jimmi-mjcodes.vercel.app"><img src="./assets/link-portfolio.svg" width="31.5%" alt="Portfolio — jimmi-mjcodes.vercel.app" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mjamshaid-itdev/"><img src="./assets/link-linkedin.svg" width="31.5%" alt="LinkedIn — Muhammad Jamshaid" /></a>&nbsp;
-  <a href="https://x.com/mj_jimmi"><img src="./assets/link-x.svg" width="31.5%" alt="X — @mj_jimmi" /></a>
-</p>
+I build production web platforms, internal business tools, and practical AI workflow automations that solve real operational bottlenecks.
 
-<p align="center">
-  <img src="./assets/now.svg" width="100%" alt="Now: building SaaS products, contributing to open-source, and helping businesses build modern web applications." />
-</p>
+🚀 **Live Products & Commercial Systems:**
+- 🔗 **[Linksv](https://linksv.app/)** — Live AI-powered workflow & resource management SaaS (Next.js, Node.js, MongoDB, LLM Search, JWT).
+-🏪 **[Dukizo & DukizoPOS](https://dukizo.com/)** — Retail point-of-sale, inventory management, and store discovery platform.
+- 🎙️ **[Vocal-Str](https://github.com/jimmiwag/vocal-str)** — Open-source AI audio-to-subtitle generator using Google Gemini with SRT/VTT export.
 
-<br />
+🛠️ **Core Stack:**
+- **AI & Automation:** OpenAI / Claude / Gemini APIs, RAG, Function Calling, Structured Outputs, Model Context Protocol (MCP), Vector DBs, Webhook Pipelines.
+- **Full-Stack Web:** TypeScript, Next.js (App Router), React, Node.js, Express, PostgreSQL, Supabase, MongoDB, Tailwind CSS, Playwright.
 
-<h3 align="center" style="letter-spacing: 2.4px;">WORKING SET</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,redis,supabase,tailwind,redux,vite,git,figma,aws,cloudflare,sentry,firebase,electron&perline=10" />
-</p>
-
-<br />
-
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution details" width="100%" />
+📫 **Work With Me (Worldwide Remote / B2B Contract):**
+- Portfolio: [jamshaiditdev.vercel.app](https://jamshaiditdev.vercel.app/)
+- LinkedIn: [linkedin.com/in/mjamshaid-itdev](https://linkedin.com/in/mjamshaid-itdev/)
+- Email: jamshaid.itdev@gmail.com
